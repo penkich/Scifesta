@@ -25,7 +25,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1.0167041"
-     inkscape:cx="59.997791"
+     inkscape:cx="258.679"
      inkscape:cy="300.48074"
      inkscape:window-width="1904"
      inkscape:window-height="993"
@@ -312,19 +312,24 @@
     <text
        xml:space="preserve"
        style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;word-spacing:0px;stroke-width:0.264583"
-       x="10.409453"
-       y="53.088211"
+       x="18.737017"
+       y="53.348446"
        id="text10"><tspan
          sodipodi:role="line"
          style="font-size:3.52778px;stroke-width:0.264583"
-         x="10.409453"
-         y="53.088211"
+         x="18.737017"
+         y="53.348446"
          id="tspan12">MIDIファイルを解析し、</tspan><tspan
          sodipodi:role="line"
          style="font-size:3.52778px;stroke-width:0.264583"
-         x="10.409453"
-         y="57.760754"
-         id="tspan4">パート別の時系列データを生成</tspan></text>
+         x="18.737017"
+         y="58.020988"
+         id="tspan4">各パートを統合した</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="18.737017"
+         y="62.693535"
+         id="tspan5">時系列データを生成</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;word-spacing:0px;stroke-width:0.264583"
