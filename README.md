@@ -1,7 +1,7 @@
 # サイエンス・フェスタ大阪２０２６
 ただいま作成中です。
 ## 本日の構成
-!image_folder/demo1.svg
+[!image_folder/demo1.svg](https://github.com/penkich/Scifesta/blob/main/image_folder/demo1.svg)
 
 
 ## ステッピングモーター
