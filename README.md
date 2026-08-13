@@ -18,7 +18,7 @@ https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%86%E3%83%83%E3%83%94%E3%83%B3%E3%8
 鍵盤で低い「ド」と高い「ド」を同時に弾いて、ステッピングモーターの回転数を比べてみてください。  
 なお、「ド」と「ソ」の関係は、きれいな振動数の比（２対３）になるので、同時に鳴らすとハモリます。  
 「ド」と「ミ」の関係は、（４対５）と言いたいところですが「ミ」が少し高めにズレているので、少し濁ります。 
-音楽の時間に、「ミ」は気持ち低く歌ったほうが良いと習ったことありませんか？  
+音楽の時間に、「ミ」は気持ち低く歌ったほうが良いと習った人もいるかも知れませんね？  
 ![https://github.com/penkich/Scifesta/image_folder/heikinritsu.svg](https://github.com/penkich/Scifesta/blob/main/image_folder/heikinritsu.svg)
 ### 参考
 「平均律」 https://ja.wikipedia.org/wiki/%E5%B9%B3%E5%9D%87%E5%BE%8B  
