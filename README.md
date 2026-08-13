@@ -3,7 +3,7 @@
 ## 本日の構成１（鍵盤）
 ![!image_folder/demo1.svg](https://github.com/penkich/Scifesta/blob/main/image_folder/demo1.svg)
 
-## 本日の構成２（アニメソング）
+## 本日の構成２（アニメソングなど演奏）
 
 ## ステッピングモーターについて
 https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%86%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC
