@@ -14,7 +14,7 @@ flowchart TB
 ## ステッピングモーター
 https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%86%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC
 ## 音階
-https://github.com/penkich/Scifesta/image_folder/heikinritsu.png
+https://github.com/penkich/Scifesta/image_folder/heikinritsu.svg
 ### 参考
 「平均律」 https://ja.wikipedia.org/wiki/%E5%B9%B3%E5%9D%87%E5%BE%8B  
 「ヴェルクマイスター音律」https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A7%E3%83%AB%E3%82%AF%E3%83%9E%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC%E9%9F%B3%E5%BE%8B
