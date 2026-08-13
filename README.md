@@ -1,5 +1,5 @@
 # サイエンス・フェスタ大阪２０２６
-## 本日の構成１（鍵盤）
+## 本日の構成１（キーボードで音を鳴らせてみて！）
 ![!image_folder/demo1.svg](https://github.com/penkich/Scifesta/blob/main/image_folder/demo1.svg)
 
 ## 本日の構成２（アニメソングなど演奏）
